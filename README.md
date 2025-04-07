@@ -7,7 +7,7 @@ React Router: Starter Project for Dashboard Manager for Kafka projects
 ---
 
 <div align="center">
-<a href="https://www.megatrack.com/" target="_blank"><img width="100%" src="https://ultimatecourses.com/static/banners/ultimate-react-leader.svg"></a>
+<a href="https://www.megatrack.com/" target="_blank"><img width="100%" src="https://megatrack/services/KDM"></a>
 </div>
 
 ---
