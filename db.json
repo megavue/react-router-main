@@ -1,52 +1,52 @@
 {
-  "products": [
+  "projects": [
     {
-      "id": "big-cheese",
-      "name": "Big Cheese",
-      "description": "Large burger, all the cheese.",
-      "price": 749
+      "id": "01",
+      "name": "IOT Monitoring",
+      "description": "Large IOT Monitoring project, all kides of industries.",
+      "price": 2749
     },
     {
-      "id": "the-wedge",
-      "name": "The Wedge",
-      "description": "Tasty sandwich to max your tastebuds.",
-      "price": 699
+      "id": "02",
+      "name": "Direct Supply chain",
+      "description": "direct supply chain management.",
+      "price": 3699
     },
     {
-      "id": "spice-dog",
-      "name": "Spice Dog",
-      "description": "Prepare the spice, it's very nice.",
-      "price": 699
+      "id": "03",
+      "name": "Production Monitoring",
+      "description": "Monitoring the all process of industries productions. Effective production monitoring is rooted in the collection of real-time data",
+      "price": 1699
     },
     {
-      "id": "french-fries",
-      "name": "French Fries",
-      "description": "That side you've been missing.",
-      "price": 499
+      "id": "04",
+      "name": "Meat production",
+      "description": "Monitoring of all meat production processes and their distribution to the final user..",
+      "price": 1499
     },
     {
-      "id": "soulless-salad",
-      "name": "Soul-less Salad",
-      "description": "Just in case you're peckish.",
-      "price": 649
+      "id": "05",
+      "name": "Smart Home",
+      "description": "With the help of connected devices, residents are able to control several devices in their home via smartphones or voice assistants. Smart home technologies thus increase the convenience and security in private households.",
+      "price": 1649
     },
     {
-      "id": "cola-cola",
-      "name": "Cola Cola",
-      "description": "Get that sugar rush, pronto.",
-      "price": 399
+      "id": "06",
+      "name": "Smart cities",
+      "description": "In big cities, IoT applications form a more efficient infrastructure for residents and authorities. These reduce the environmental impact of exhaust gasses, the waste of resources and any road congestion caused by excessive traffic.",
+      "price": 2399
     },
     {
-      "id": "big-slurp",
-      "name": "Big Slurp",
-      "description": "It really is a big drink.",
-      "price": 449
+      "id": "07",
+      "name": "Smart energy management",
+      "description": "In the energy sector, IoT application examples such as smart grids and smart metering promote environmentally friendly and sustainable electricity practices. This helps the power supply to become more climate-friendly and effective in the future.",
+      "price": 1449
     },
     {
-      "id": "wild-water",
-      "name": "Wild Water",
-      "description": "Spring water, wild and watery.",
-      "price": 299
+      "id": "08",
+      "name": "Smart Water management",
+      "description": "In differents sector, we uses WATER. with this tool, we manage all your system of IoT sensors monitor soil moisture levels and transmit data to irrigation systems for precise water delivery, reducing wastage. IoT weather stations provide real-time weather data, allowing irrigation systems to adjust watering schedules based on current conditions. ",
+      "price": 1299
     }
   ]
 }
